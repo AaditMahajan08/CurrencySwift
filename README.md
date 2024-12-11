@@ -14,7 +14,7 @@
 - **JavaScript**: For dynamic interactions and API integration.
 
 ## Project Structure:
-- **currency.html**: Main HTML file containing the structure of the app.
+- **index.html**: Main HTML file containing the structure of the app.
 - **currency.css**: Stylesheet for the layout and design.
 - **currency.js**: JavaScript file that handles dynamic currency conversion and API interactions.
 
